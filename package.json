@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "\"A simple Web Crawler to download html pages!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faraaz-ahmed/Node-Web-Crawler.git"
+  },
+  "keywords": [
+    "node.js",
+    "webcrawler"
+  ],
+  "author": "Faraaz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faraaz-ahmed/Node-Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/faraaz-ahmed/Node-Web-Crawler#readme"
+}
